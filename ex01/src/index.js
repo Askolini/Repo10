@@ -1,4 +1,4 @@
-var myPet = {
+myPet = {
     species: "Tornjak",
     name: "Snoopie",
     legs: 4,
